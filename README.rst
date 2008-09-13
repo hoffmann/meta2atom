@@ -2,7 +2,7 @@
 meta2atom atom feed generator
 =============================
 
-meta2atom is a python script to generate atom feeds based ont the meta tags
+meta2atom is a python script to generate atom feeds based on the meta tags
 in html documents.
 
 
@@ -19,7 +19,7 @@ HTML Meta Tags
     <meta http-equiv="content-language" content="de">
 
 Dublin Core Meta Information
-    ----------------------------t
+----------------------------
 ::
 
     <meta name="DC.title" content="SELFHTML: Meta-Angaben">
